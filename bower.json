@@ -1,0 +1,37 @@
+{
+  "name": "ion-datetime-picker-converter-date-utc",
+  "version": "1.0.0",
+  "description": "Model converter from/to native Date object using UTC for ion-datetime-picker",
+  "main": "dist/index.js",
+  "moduleType": [
+    "globals",
+    "amd",
+    "node"
+  ],
+  "keywords": [
+    "ion-datetime-picker",
+    "ionic",
+    "converter",
+    "date",
+    "utc"
+  ],
+  "authors": [
+    "Kate Miháliková <kate@katemihalikova.cz> (https://katemihalikova.cz/)"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/katemihalikova/ion-datetime-picker-converter-date-utc",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "src",
+    "package.json",
+    "tsconfig.json",
+    "tslint.json",
+    "webpack.config.js",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ],
+  "dependencies": {
+    "ion-datetime-picker": "^1.0.0"
+  }
+}
